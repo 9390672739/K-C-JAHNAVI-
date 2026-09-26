@@ -93,17 +93,32 @@ To run the Flask app:
 pip install flask python app.py
 
 ✅ Project Highlights
+
 ✔ 6 Tableau Sheets
+
 ✔ 1 Interactive Dashboard
+
 ✔ 1 Story (5 Scenes)
+
 ✔ 2 Top-N Filters
+
 ✔ 2 Calculated Fields
+
 ✔ Published to Tableau Public
+
 ✔ Embedded using Flask
 
+
+
 📌 Conclusion
-The analysis shows that renovation status and property features significantly influence housing prices. Recently renovated houses tend to show different pricing patterns compared to older properties. Feature comparison across house age groups helps identify buyer preferences and market trends.
+
+The analysis shows that renovation status and property features significantly influence housing prices. Recently renovated houses tend to show different pricing 
+patterns compared to older properties. Feature comparison across house age groups helps identify buyer preferences and market trends.
+
+
 
 👤 Author
 Your Name
+
 K C JAHNAVI
+
